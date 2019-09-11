@@ -1,0 +1,8 @@
+.boxed{
+	border:1px solid black;
+	padding:15px;
+}
+div {
+	width: 500px;
+	margin: auto;
+}
